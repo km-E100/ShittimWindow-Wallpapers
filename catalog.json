@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "revision": "2026.10.25-1",
+  "sceneCount": 282,
+  "gameVersion": "1.73.461851",
+  "bytes": 2667769701,
+  "unpackedBytes": 2955368288,
+  "fileCount": 4903,
+  "parts": [
+    {
+      "name": "ShittimWallpapers-2026.10.25-1-01.zip",
+      "bytes": 487360735,
+      "unpackedBytes": 524217198,
+      "sha256": "79b4753aedc1c6cc307e830fbe9402a4bd92429383e815bf85e646c864366371",
+      "url": "https://github.com/km-E100/ShittimWindow-Wallpapers/releases/download/2026.10.25-1/ShittimWallpapers-2026.10.25-1-01.zip"
+    },
+    {
+      "name": "ShittimWallpapers-2026.10.25-1-02.zip",
+      "bytes": 486641543,
+      "unpackedBytes": 523665914,
+      "sha256": "39169274cefe803abca4fa3e41882e6078d2bb574271388e5dc811d0d0c4dca9",
+      "url": "https://github.com/km-E100/ShittimWindow-Wallpapers/releases/download/2026.10.25-1/ShittimWallpapers-2026.10.25-1-02.zip"
+    },
+    {
+      "name": "ShittimWallpapers-2026.10.25-1-03.zip",
+      "bytes": 480999222,
+      "unpackedBytes": 523803297,
+      "sha256": "64fcd69e77b1f1df57b52936a26eff1cbb788cd97111b1f2533eed38aaf0b608",
+      "url": "https://github.com/km-E100/ShittimWindow-Wallpapers/releases/download/2026.10.25-1/ShittimWallpapers-2026.10.25-1-03.zip"
+    },
+    {
+      "name": "ShittimWallpapers-2026.10.25-1-04.zip",
+      "bytes": 503801333,
+      "unpackedBytes": 523975104,
+      "sha256": "6d71f83072438db3286309fb9423b35ac9a06f60bf2afcf71662d2791970159a",
+      "url": "https://github.com/km-E100/ShittimWindow-Wallpapers/releases/download/2026.10.25-1/ShittimWallpapers-2026.10.25-1-04.zip"
+    },
+    {
+      "name": "ShittimWallpapers-2026.10.25-1-05.zip",
+      "bytes": 506327454,
+      "unpackedBytes": 522778126,
+      "sha256": "5a8b31e9d2f11cd67b7bdda1e79005505618ebdae3177ac8b7e5323ef44adcb6",
+      "url": "https://github.com/km-E100/ShittimWindow-Wallpapers/releases/download/2026.10.25-1/ShittimWallpapers-2026.10.25-1-05.zip"
+    },
+    {
+      "name": "ShittimWallpapers-2026.10.25-1-06.zip",
+      "bytes": 202639414,
+      "unpackedBytes": 336928649,
+      "sha256": "4b8b7f38e86362323db5e5cbf26c41acc395b74094e5c57a1eb69129cef7768b",
+      "url": "https://github.com/km-E100/ShittimWindow-Wallpapers/releases/download/2026.10.25-1/ShittimWallpapers-2026.10.25-1-06.zip"
+    }
+  ]
+}

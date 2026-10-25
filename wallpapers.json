@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "LobbyHasumi",
+    "name": "莲见",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0266",
+    "name": "纱织",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0262",
+    "name": "桐乃",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0088",
+    "name": "惠",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyShimiko",
+    "name": "志美子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMutsuki",
+    "name": "睦月",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0092",
+    "name": "野宫",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0288",
+    "name": "青叶",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyHinata",
+    "name": "日向",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0240",
+    "name": "爱露",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyHihumi",
+    "name": "日富美",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0099",
+    "name": "茜",
+    "variant": "邦妮"
+  },
+  {
+    "id": "LobbyKirara",
+    "name": "绮罗罗",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyKaede",
+    "name": "枫",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyYoshimi",
+    "name": "好美",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0161",
+    "name": "紫",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0267",
+    "name": "亚津子",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyShiroko_ridingsuit",
+    "name": "白子",
+    "variant": "骑行"
+  },
+  {
+    "id": "LobbyCH0069",
+    "name": "未花",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0095",
+    "name": "诺亚",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0273",
+    "name": "玛丽",
+    "variant": "偶像"
+  },
+  {
+    "id": "LobbyAyane_multi",
+    "name": "绫音",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0232",
+    "name": "小玉",
+    "variant": "露营"
+  },
+  {
+    "id": "LobbyAko",
+    "name": "亚子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyKazusa",
+    "name": "和纱",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0081",
+    "name": "濑名",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMashiro",
+    "name": "真白",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0190",
+    "name": "莲见",
+    "variant": "体操服"
+  },
+  {
+    "id": "LobbyKoharu",
+    "name": "小春",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0192",
+    "name": "纯子",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyAru_newyear",
+    "name": "爱露",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyCH0164",
+    "name": "切里诺",
+    "variant": "温泉"
+  },
+  {
+    "id": "LobbyMarina",
+    "name": "真里奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0287",
+    "name": "堇",
+    "variant": "打工"
+  },
+  {
+    "id": "LobbyMiyako",
+    "name": "宫子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0243",
+    "name": "望",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0063",
+    "name": "日奈",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0257",
+    "name": "菲娜",
+    "variant": "导游"
+  },
+  {
+    "id": "LobbyCH0175",
+    "name": "若藻",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbySakurako",
+    "name": "樱子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0269",
+    "name": "日和",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0163",
+    "name": "千夏",
+    "variant": "温泉"
+  },
+  {
+    "id": "LobbyCH0098",
+    "name": "明日奈",
+    "variant": "邦妮"
+  },
+  {
+    "id": "LobbyMidori",
+    "name": "绿",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyHaruna",
+    "name": "晴奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0196",
+    "name": "明里",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyHoshino_multi",
+    "name": "星野",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0186",
+    "name": "玛丽",
+    "variant": "体操服"
+  },
+  {
+    "id": "LobbySerina",
+    "name": "芹娜",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0184",
+    "name": "优香",
+    "variant": "体操服"
+  },
+  {
+    "id": "LobbyCH0182",
+    "name": "歌原",
+    "variant": "应援团"
+  },
+  {
+    "id": "LobbyCH0210",
+    "name": "日向",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0180",
+    "name": "静子",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0202",
+    "name": "绿",
+    "variant": "女仆"
+  },
+  {
+    "id": "LobbyCH0245",
+    "name": "丽",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyKotori",
+    "name": "琴里",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0221",
+    "name": "夏",
+    "variant": "乐队"
+  },
+  {
+    "id": "LobbySerika",
+    "name": "芹香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyChinatsu",
+    "name": "千夏",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbySuzumi",
+    "name": "铃美",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0300",
+    "name": "桔梗",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0218",
+    "name": "美游",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0089",
+    "name": "霞",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0251",
+    "name": "爱理",
+    "variant": "乐队"
+  },
+  {
+    "id": "LobbyMashiro_swimsuit",
+    "name": "真白",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0205",
+    "name": "小春",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyJuri",
+    "name": "朱莉",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyHibiki",
+    "name": "响",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0193",
+    "name": "晴奈",
+    "variant": "体操服"
+  },
+  {
+    "id": "LobbyCH0139",
+    "name": "妃咲",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0159",
+    "name": "日鞠",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0066",
+    "name": "瞬",
+    "variant": "小"
+  },
+  {
+    "id": "LobbyTsubaki",
+    "name": "椿",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyIzuna",
+    "name": "泉奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0238",
+    "name": "千明",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyIori",
+    "name": "伊织",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyChise",
+    "name": "千世",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyIbuki",
+    "name": "伊吹",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0263",
+    "name": "白子＊恐怖",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0302",
+    "name": "莲华",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbySumire",
+    "name": "堇",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyEimi",
+    "name": "艾米",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0294",
+    "name": "未花",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0301",
+    "name": "紫",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0101",
+    "name": "妮露",
+    "variant": "邦妮"
+  },
+  {
+    "id": "LobbyCherino",
+    "name": "切里诺",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMutsuki_newyear",
+    "name": "睦月",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyCH0177",
+    "name": "风香",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyCH0064",
+    "name": "伊织",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0152",
+    "name": "美祢",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0079",
+    "name": "真琴",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0286",
+    "name": "朱莉",
+    "variant": "打工"
+  },
+  {
+    "id": "LobbyYuuka",
+    "name": "优香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyHina",
+    "name": "日奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0114",
+    "name": "月咏",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMaki",
+    "name": "真纪",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyHanae",
+    "name": "花江",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0188",
+    "name": "白子",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0230",
+    "name": "日奈",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyCH0285",
+    "name": "诺亚",
+    "variant": "睡衣"
+  },
+  {
+    "id": "LobbySerika_newyear",
+    "name": "芹香",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyAiri",
+    "name": "爱理",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbySaya_casual",
+    "name": "纱绫",
+    "variant": "便服"
+  },
+  {
+    "id": "LobbyCH0214",
+    "name": "实梨",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0219",
+    "name": "艾米",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyHiyori",
+    "name": "日和",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0058",
+    "name": "日富美",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0183",
+    "name": "三森",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyAkari",
+    "name": "明里",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0123",
+    "name": "时雨",
+    "variant": "温泉"
+  },
+  {
+    "id": "LobbyCH0204",
+    "name": "忧",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyAzusa",
+    "name": "梓",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyKirino",
+    "name": "桐乃",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0194",
+    "name": "芹娜",
+    "variant": "圣诞"
+  },
+  {
+    "id": "LobbyCH0198",
+    "name": "小雪",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0295",
+    "name": "圣娅",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyReizyo",
+    "name": "丽情",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0160",
+    "name": "千寻",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0165",
+    "name": "和香",
+    "variant": "温泉"
+  },
+  {
+    "id": "LobbyCH0195",
+    "name": "花江",
+    "variant": "圣诞"
+  },
+  {
+    "id": "LobbyCH0224",
+    "name": "莲华",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbySaya",
+    "name": "纱绫",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0260",
+    "name": "康娜",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyAris",
+    "name": "爱丽丝",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0282",
+    "name": "花凛",
+    "variant": "制服"
+  },
+  {
+    "id": "LobbyPina",
+    "name": "菲娜",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbySaori",
+    "name": "纱织",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH9996",
+    "name": "佐天泪子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0135",
+    "name": "瑠海",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0141",
+    "name": "吹雪",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyAru",
+    "name": "爱露",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0225",
+    "name": "桔梗",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyIzumi",
+    "name": "泉",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMomoi",
+    "name": "桃",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0191",
+    "name": "晴奈",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyZunko",
+    "name": "纯子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbySerika_multi",
+    "name": "芹香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMisaki",
+    "name": "美咲",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMomiji",
+    "name": "红叶",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0258",
+    "name": "星野",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyShizuko",
+    "name": "静子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0187",
+    "name": "时",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH9997",
+    "name": "食蜂操祈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0179",
+    "name": "泉奈",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0124",
+    "name": "芽瑠",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyKarin",
+    "name": "花凛",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0211",
+    "name": "时",
+    "variant": "邦妮"
+  },
+  {
+    "id": "LobbyCH0231",
+    "name": "亚子",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyAkane",
+    "name": "茜",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMari",
+    "name": "玛丽",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0259",
+    "name": "纱织",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyHare",
+    "name": "晴",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyTomoe",
+    "name": "巴",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyNonomi_multi",
+    "name": "野宫",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0274",
+    "name": "樱子",
+    "variant": "偶像"
+  },
+  {
+    "id": "LobbyKotama",
+    "name": "小玉",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyFuuka",
+    "name": "风香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0291",
+    "name": "莲见",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0270",
+    "name": "真里奈",
+    "variant": "旗袍"
+  },
+  {
+    "id": "LobbyCH0284",
+    "name": "优香",
+    "variant": "睡衣"
+  },
+  {
+    "id": "LobbyCH0082",
+    "name": "濑名",
+    "variant": "便服"
+  },
+  {
+    "id": "LobbyCH9999",
+    "name": "初音未来",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0222",
+    "name": "名草",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0086",
+    "name": "佳代子",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyCH0271",
+    "name": "巴",
+    "variant": "旗袍"
+  },
+  {
+    "id": "LobbyAtsuko",
+    "name": "亚津子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0250",
+    "name": "和纱",
+    "variant": "乐队"
+  },
+  {
+    "id": "LobbyCH0138",
+    "name": "南",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyWakamo",
+    "name": "若藻",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyShigure",
+    "name": "时雨",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0203",
+    "name": "柚子",
+    "variant": "女仆"
+  },
+  {
+    "id": "LobbyAzusa_swimsuit",
+    "name": "梓",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0110",
+    "name": "海香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyYuzu",
+    "name": "柚子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyNeru",
+    "name": "妮露",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0178",
+    "name": "千世",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyHoshino_swimsuit",
+    "name": "星野",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0292",
+    "name": "一花",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0255",
+    "name": "椿",
+    "variant": "导游"
+  },
+  {
+    "id": "LobbyNonomi",
+    "name": "野宫",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyShun",
+    "name": "瞬",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0109",
+    "name": "尼娅",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0280",
+    "name": "妮露",
+    "variant": "制服"
+  },
+  {
+    "id": "LobbyHaruka",
+    "name": "春香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0189",
+    "name": "芹香",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0209",
+    "name": "花子",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0169",
+    "name": "忧",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0261",
+    "name": "吹雪",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0242",
+    "name": "光",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0087",
+    "name": "春香",
+    "variant": "新年"
+  },
+  {
+    "id": "LobbyKayoko",
+    "name": "佳代子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMimori",
+    "name": "三森",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0107",
+    "name": "果穗",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyAsuna",
+    "name": "明日奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0235",
+    "name": "真纪",
+    "variant": "露营"
+  },
+  {
+    "id": "LobbyCH0275",
+    "name": "美祢",
+    "variant": "偶像"
+  },
+  {
+    "id": "LobbyNodoka",
+    "name": "和香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0239",
+    "name": "佳代子",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyCH0145",
+    "name": "美游",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0167",
+    "name": "玲纱",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyHanako",
+    "name": "花子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0201",
+    "name": "桃",
+    "variant": "女仆"
+  },
+  {
+    "id": "LobbyIzumi_swimsuit",
+    "name": "泉",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0144",
+    "name": "咲",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0220",
+    "name": "好美",
+    "variant": "乐队"
+  },
+  {
+    "id": "LobbyCH0170",
+    "name": "康娜",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0113",
+    "name": "满",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0155",
+    "name": "夏",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0158",
+    "name": "莉音",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0216",
+    "name": "萌绘",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0233",
+    "name": "晴",
+    "variant": "露营"
+  },
+  {
+    "id": "LobbyCH9998",
+    "name": "御坂美琴",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyMoe",
+    "name": "萌绘",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyShiroko",
+    "name": "白子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0060",
+    "name": "鹤城",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyHoshino",
+    "name": "星野",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0181",
+    "name": "响",
+    "variant": "应援团"
+  },
+  {
+    "id": "LobbyTsurugi",
+    "name": "鹤城",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0185",
+    "name": "琴里",
+    "variant": "应援团"
+  },
+  {
+    "id": "LobbyCH0137",
+    "name": "心奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0293",
+    "name": "渚",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0156",
+    "name": "伊吕波",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0215",
+    "name": "宫子",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0080",
+    "name": "皋月",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0100",
+    "name": "花凛",
+    "variant": "邦妮"
+  },
+  {
+    "id": "LobbyCH0281",
+    "name": "明日奈",
+    "variant": "制服"
+  },
+  {
+    "id": "LobbyCH0200",
+    "name": "爱丽丝",
+    "variant": "女仆"
+  },
+  {
+    "id": "LobbyCH0197",
+    "name": "泉",
+    "variant": "正月"
+  },
+  {
+    "id": "LobbyCH0176",
+    "name": "绫音",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyShiroko_multi",
+    "name": "白子",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0217",
+    "name": "咲",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyUtaha",
+    "name": "歌原",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyNagisa",
+    "name": "渚",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0070",
+    "name": "圣娅",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0071",
+    "name": "一花",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyAyane",
+    "name": "绫音",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0306",
+    "name": "庚",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0304",
+    "name": "绘里",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0318",
+    "name": "冬",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0268",
+    "name": "美咲",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0317",
+    "name": "美代",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0319",
+    "name": "律",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0325",
+    "name": "铃美",
+    "variant": "魔法"
+  },
+  {
+    "id": "LobbyCH0166",
+    "name": "兰舞",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0326",
+    "name": "玲纱",
+    "variant": "魔法"
+  },
+  {
+    "id": "LobbyCH0309",
+    "name": "昴",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0228",
+    "name": "八云",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0229",
+    "name": "贵音",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0297",
+    "name": "月咏",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyCH0296",
+    "name": "满",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyCH0331",
+    "name": "莉音",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyCH0332",
+    "name": "日鞠",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyCH0333",
+    "name": "时",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyCH0335",
+    "name": "柯伊",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0336",
+    "name": "柚子",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyCH0337",
+    "name": "艾米",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyCH0334",
+    "name": "爱丽丝",
+    "variant": "武装"
+  },
+  {
+    "id": "LobbyCH0305",
+    "name": "丽奈",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0264",
+    "name": "木乃香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0310",
+    "name": "小雪",
+    "variant": "睡衣"
+  },
+  {
+    "id": "LobbyCH0173",
+    "name": "胡桃",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0172",
+    "name": "妮可",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0174",
+    "name": "御伽",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0307",
+    "name": "茜",
+    "variant": "制服"
+  },
+  {
+    "id": "LobbyErika",
+    "name": "绘梨香",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0247",
+    "name": "春香",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyCH0246",
+    "name": "睦月",
+    "variant": "礼服"
+  },
+  {
+    "id": "LobbyCH0356",
+    "name": "妃咲",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0303",
+    "name": "名草",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0355",
+    "name": "瞬",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0347",
+    "name": "伊吹",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0344",
+    "name": "真琴",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0348",
+    "name": "千明",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0346",
+    "name": "伊吕波",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0345",
+    "name": "皋月",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0369",
+    "name": "琴音",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0368",
+    "name": "心",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0321",
+    "name": "艾莉娜",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0320",
+    "name": "安娜",
+    "variant": "原版"
+  },
+  {
+    "id": "LobbyCH0328",
+    "name": "霞",
+    "variant": "泳装"
+  },
+  {
+    "id": "LobbyCH0252",
+    "name": "䌷",
+    "variant": "原版"
+  },
+  {
+    "id": "Airi0_home",
+    "name": "爱莉",
+    "variant": "附加资源"
+  }
+]
